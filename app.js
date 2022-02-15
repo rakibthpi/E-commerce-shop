@@ -34,8 +34,6 @@ function calculateTotal(){
     document.getElementById('main_Total').innerText = total;
 
     console.log(subTotal);
-
-
 }
 // On the has function
 // Phone Price 
